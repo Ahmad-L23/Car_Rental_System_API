@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="ERD_Car_Rental.png" width="600"/>
-</p>
-
-<p align="center">
-  <img src="Car_Rental_ODD.png" width="600"/>
-</p>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="ERD_Car_Rental.png" alt="ERD Car Rental" width="500" />
+  <img src="Car_Rental_ODD.png" alt="Car Rental ODD" width="500" />
+</div>
