@@ -1,0 +1,13 @@
+C:\asp.net_Core_WebApi_Projects\CarRentalDataAccessLayer\bin\Debug\net8.0\CarRentalDataAccessLayer.deps.json
+C:\asp.net_Core_WebApi_Projects\CarRentalDataAccessLayer\bin\Debug\net8.0\CarRentalDataAccessLayer.dll
+C:\asp.net_Core_WebApi_Projects\CarRentalDataAccessLayer\bin\Debug\net8.0\CarRentalDataAccessLayer.pdb
+C:\asp.net_Core_WebApi_Projects\CarRentalDataAccessLayer\obj\Debug\net8.0\CarRentalDataAccessLayer.csproj.AssemblyReference.cache
+C:\asp.net_Core_WebApi_Projects\CarRentalDataAccessLayer\obj\Debug\net8.0\CarRentalDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\asp.net_Core_WebApi_Projects\CarRentalDataAccessLayer\obj\Debug\net8.0\CarRentalDataAccessLayer.AssemblyInfoInputs.cache
+C:\asp.net_Core_WebApi_Projects\CarRentalDataAccessLayer\obj\Debug\net8.0\CarRentalDataAccessLayer.AssemblyInfo.cs
+C:\asp.net_Core_WebApi_Projects\CarRentalDataAccessLayer\obj\Debug\net8.0\CarRentalDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\asp.net_Core_WebApi_Projects\CarRentalDataAccessLayer\obj\Debug\net8.0\CarRentalDataAccessLayer.sourcelink.json
+C:\asp.net_Core_WebApi_Projects\CarRentalDataAccessLayer\obj\Debug\net8.0\CarRentalDataAccessLayer.dll
+C:\asp.net_Core_WebApi_Projects\CarRentalDataAccessLayer\obj\Debug\net8.0\refint\CarRentalDataAccessLayer.dll
+C:\asp.net_Core_WebApi_Projects\CarRentalDataAccessLayer\obj\Debug\net8.0\CarRentalDataAccessLayer.pdb
+C:\asp.net_Core_WebApi_Projects\CarRentalDataAccessLayer\obj\Debug\net8.0\ref\CarRentalDataAccessLayer.dll
