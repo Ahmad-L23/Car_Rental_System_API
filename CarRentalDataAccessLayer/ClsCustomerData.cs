@@ -48,14 +48,14 @@ namespace CarRentalDataAccessLayer
             }
         }
 
-        public static bool Update(CustomerDTO dto)
+        public static bool UpdateCustomer(CustomerDTO dto)
         {
             using (var conn = new MySqlConnection(_connectionString))
             {
                 string query = @"
                     UPDATE Customer
                     SET Name = @Name, ContactInformation = @ContactInfo, DriverLicenseNumber = @License
-                    WHERE Id = @Id";
+                    WHERE CustomerID = @Id";
 
                 using (var cmd = new MySqlCommand(query, conn))
                 {
@@ -74,7 +74,7 @@ namespace CarRentalDataAccessLayer
         {
             using (var conn = new MySqlConnection(_connectionString))
             {
-                string query = "DELETE FROM Customer WHERE Id = @Id";
+                string query = "DELETE FROM Customer WHERE CustomerID = @Id";
 
                 using (var cmd = new MySqlCommand(query, conn))
                 {
@@ -90,7 +90,7 @@ namespace CarRentalDataAccessLayer
         {
             using (var conn = new MySqlConnection(_connectionString))
             {
-                string query = "SELECT * FROM Customer WHERE Id = @Id";
+                string query = "SELECT * FROM Customer WHERE CustomerID = @Id";
 
                 using (var cmd = new MySqlCommand(query, conn))
                 {
@@ -102,7 +102,7 @@ namespace CarRentalDataAccessLayer
                         if (reader.Read())
                         {
                             return new CustomerDTO(
-                                Convert.ToInt32(reader["Id"]),
+                                Convert.ToInt32(reader["CustomerID"]),
                                 reader["Name"]?.ToString() ?? "",
                                 reader["ContactInformation"]?.ToString() ?? "",
                                 reader["DriverLicenseNumber"]?.ToString() ?? ""
@@ -131,7 +131,7 @@ namespace CarRentalDataAccessLayer
                         while (reader.Read())
                         {
                             customers.Add(new CustomerDTO(
-                                Convert.ToInt32(reader["Id"]),
+                                Convert.ToInt32(reader["CustomerID"]),
                                 reader["Name"]?.ToString() ?? "",
                                 reader["ContactInformation"]?.ToString() ?? "",
                                 reader["DriverLicenseNumber"]?.ToString() ?? ""
@@ -162,7 +162,7 @@ namespace CarRentalDataAccessLayer
                         while (reader.Read())
                         {
                             customers.Add(new CustomerDTO(
-                                Convert.ToInt32(reader["Id"]),
+                                Convert.ToInt32(reader["CustomerID"]),
                                 reader["Name"]?.ToString() ?? "",
                                 reader["ContactInformation"]?.ToString() ?? "",
                                 reader["DriverLicenseNumber"]?.ToString() ?? ""
