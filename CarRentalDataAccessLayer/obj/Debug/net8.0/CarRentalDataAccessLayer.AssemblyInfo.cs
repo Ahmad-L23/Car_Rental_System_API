@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarRentalDataAccessLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f8af6cc6562667ad1a94a04b589179a081ccc71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22dd14560018864befce6eb68ee150a2791bdadd")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarRentalDataAccessLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarRentalDataAccessLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
