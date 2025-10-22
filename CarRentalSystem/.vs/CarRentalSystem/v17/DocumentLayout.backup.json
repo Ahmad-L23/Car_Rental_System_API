@@ -3,38 +3,26 @@
   "WorkspaceRootPath": "C:\\asp.net_Core_WebApi_Projects\\CarRentalSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD02D520-B81B-4AA4-A78A-6E127B8ABAC2}|CarRentalSystem.csproj|c:\\asp.net_core_webapi_projects\\carrentalsystem\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD02D520-B81B-4AA4-A78A-6E127B8ABAC2}|CarRentalSystem.csproj|solutionrelative:controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBA63C40-2441-4909-A17C-C59672DB1E96}|..\\CarRentalDataAccessLayer\\CarRentalDataAccessLayer.csproj|c:\\asp.net_core_webapi_projects\\carrentaldataaccesslayer\\clsmaintenancedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6CF80B-6BEF-4C63-B2C3-A38A6890BF39}|..\\CarRentalAPIBusinessLayer\\CarRentalAPIBusinessLayer.csproj|c:\\asp.net_core_webapi_projects\\carrentalapibusinesslayer\\clsmaintenance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD02D520-B81B-4AA4-A78A-6E127B8ABAC2}|CarRentalSystem.csproj|c:\\asp.net_core_webapi_projects\\carrentalsystem\\controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD02D520-B81B-4AA4-A78A-6E127B8ABAC2}|CarRentalSystem.csproj|solutionrelative:controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA63C40-2441-4909-A17C-C59672DB1E96}|..\\CarRentalDataAccessLayer\\CarRentalDataAccessLayer.csproj|c:\\asp.net_core_webapi_projects\\carrentaldataaccesslayer\\dtos\\maintenancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBA63C40-2441-4909-A17C-C59672DB1E96}|..\\CarRentalDataAccessLayer\\CarRentalDataAccessLayer.csproj|c:\\asp.net_core_webapi_projects\\carrentaldataaccesslayer\\clsvehicledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB6CF80B-6BEF-4C63-B2C3-A38A6890BF39}|..\\CarRentalAPIBusinessLayer\\CarRentalAPIBusinessLayer.csproj|c:\\asp.net_core_webapi_projects\\carrentalapibusinesslayer\\clsvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA63C40-2441-4909-A17C-C59672DB1E96}|..\\CarRentalDataAccessLayer\\CarRentalDataAccessLayer.csproj|c:\\asp.net_core_webapi_projects\\carrentaldataaccesslayer\\clscarcategorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA63C40-2441-4909-A17C-C59672DB1E96}|..\\CarRentalDataAccessLayer\\CarRentalDataAccessLayer.csproj|c:\\asp.net_core_webapi_projects\\carrentaldataaccesslayer\\clscarfueltypedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD02D520-B81B-4AA4-A78A-6E127B8ABAC2}|CarRentalSystem.csproj|c:\\asp.net_core_webapi_projects\\carrentalsystem\\controllers\\carfueltypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD02D520-B81B-4AA4-A78A-6E127B8ABAC2}|CarRentalSystem.csproj|solutionrelative:controllers\\carfueltypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB6CF80B-6BEF-4C63-B2C3-A38A6890BF39}|..\\CarRentalAPIBusinessLayer\\CarRentalAPIBusinessLayer.csproj|c:\\asp.net_core_webapi_projects\\carrentalapibusinesslayer\\clsfueltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD02D520-B81B-4AA4-A78A-6E127B8ABAC2}|CarRentalSystem.csproj|c:\\asp.net_core_webapi_projects\\carrentalsystem\\controllers\\carcategorycontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD02D520-B81B-4AA4-A78A-6E127B8ABAC2}|CarRentalSystem.csproj|solutionrelative:controllers\\carcategorycontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB6CF80B-6BEF-4C63-B2C3-A38A6890BF39}|..\\CarRentalAPIBusinessLayer\\CarRentalAPIBusinessLayer.csproj|c:\\asp.net_core_webapi_projects\\carrentalapibusinesslayer\\clscarcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD02D520-B81B-4AA4-A78A-6E127B8ABAC2}|CarRentalSystem.csproj|c:\\asp.net_core_webapi_projects\\carrentalsystem\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD02D520-B81B-4AA4-A78A-6E127B8ABAC2}|CarRentalSystem.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB6CF80B-6BEF-4C63-B2C3-A38A6890BF39}|..\\CarRentalAPIBusinessLayer\\CarRentalAPIBusinessLayer.csproj|c:\\asp.net_core_webapi_projects\\carrentalapibusinesslayer\\clsvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,136 +32,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\asp.net_Core_WebApi_Projects\\CarRentalSystem\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\asp.net_Core_WebApi_Projects\\CarRentalSystem\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAswG8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T21:33:50.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CarCategoryContoller.cs",
-              "DocumentMoniker": "C:\\asp.net_Core_WebApi_Projects\\CarRentalSystem\\Controllers\\CarCategoryContoller.cs",
-              "RelativeDocumentMoniker": "Controllers\\CarCategoryContoller.cs",
-              "ToolTip": "C:\\asp.net_Core_WebApi_Projects\\CarRentalSystem\\Controllers\\CarCategoryContoller.cs",
-              "RelativeToolTip": "Controllers\\CarCategoryContoller.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAD4AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T21:33:44.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ClsCarCategoryData.cs",
-              "DocumentMoniker": "C:\\asp.net_Core_WebApi_Projects\\CarRentalDataAccessLayer\\ClsCarCategoryData.cs",
-              "RelativeDocumentMoniker": "..\\CarRentalDataAccessLayer\\ClsCarCategoryData.cs",
-              "ToolTip": "C:\\asp.net_Core_WebApi_Projects\\CarRentalDataAccessLayer\\ClsCarCategoryData.cs",
-              "RelativeToolTip": "..\\CarRentalDataAccessLayer\\ClsCarCategoryData.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAwCEAAAARAAAAAAAAAA==",
+              "Title": "MaintenanceDTO.cs",
+              "DocumentMoniker": "C:\\asp.net_Core_WebApi_Projects\\CarRentalDataAccessLayer\\DTOs\\MaintenanceDTO.cs",
+              "RelativeDocumentMoniker": "..\\CarRentalDataAccessLayer\\DTOs\\MaintenanceDTO.cs",
+              "ToolTip": "C:\\asp.net_Core_WebApi_Projects\\CarRentalDataAccessLayer\\DTOs\\MaintenanceDTO.cs",
+              "RelativeToolTip": "..\\CarRentalDataAccessLayer\\DTOs\\MaintenanceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T21:16:16.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClsVehicleData.cs",
-              "DocumentMoniker": "C:\\asp.net_Core_WebApi_Projects\\CarRentalDataAccessLayer\\ClsVehicleData.cs",
-              "RelativeDocumentMoniker": "..\\CarRentalDataAccessLayer\\ClsVehicleData.cs",
-              "ToolTip": "C:\\asp.net_Core_WebApi_Projects\\CarRentalDataAccessLayer\\ClsVehicleData.cs",
-              "RelativeToolTip": "..\\CarRentalDataAccessLayer\\ClsVehicleData.cs",
-              "ViewState": "AgIAAKwAAAAAAAAAAAAAwNAAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T23:24:33.493Z",
+              "WhenOpened": "2025-10-22T13:17:38.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ClsVehicle.cs",
-              "DocumentMoniker": "C:\\asp.net_Core_WebApi_Projects\\CarRentalAPIBusinessLayer\\ClsVehicle.cs",
-              "RelativeDocumentMoniker": "..\\CarRentalAPIBusinessLayer\\ClsVehicle.cs",
-              "ToolTip": "C:\\asp.net_Core_WebApi_Projects\\CarRentalAPIBusinessLayer\\ClsVehicle.cs",
-              "RelativeToolTip": "..\\CarRentalAPIBusinessLayer\\ClsVehicle.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAswHkAAABMAAAAAAAAAA==",
+              "Title": "MaintenanceController.cs",
+              "DocumentMoniker": "C:\\asp.net_Core_WebApi_Projects\\CarRentalSystem\\Controllers\\MaintenanceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MaintenanceController.cs",
+              "ToolTip": "C:\\asp.net_Core_WebApi_Projects\\CarRentalSystem\\Controllers\\MaintenanceController.cs",
+              "RelativeToolTip": "Controllers\\MaintenanceController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAFgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T23:31:28.744Z",
+              "WhenOpened": "2025-10-22T12:23:48.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClsMaintenance.cs",
+              "DocumentMoniker": "C:\\asp.net_Core_WebApi_Projects\\CarRentalAPIBusinessLayer\\ClsMaintenance.cs",
+              "RelativeDocumentMoniker": "..\\CarRentalAPIBusinessLayer\\ClsMaintenance.cs",
+              "ToolTip": "C:\\asp.net_Core_WebApi_Projects\\CarRentalAPIBusinessLayer\\ClsMaintenance.cs",
+              "RelativeToolTip": "..\\CarRentalAPIBusinessLayer\\ClsMaintenance.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAACoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:16:19.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VehicleController.cs",
-              "DocumentMoniker": "C:\\asp.net_Core_WebApi_Projects\\CarRentalSystem\\Controllers\\VehicleController.cs",
-              "RelativeDocumentMoniker": "Controllers\\VehicleController.cs",
-              "ToolTip": "C:\\asp.net_Core_WebApi_Projects\\CarRentalSystem\\Controllers\\VehicleController.cs",
-              "RelativeToolTip": "Controllers\\VehicleController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Title": "ClsMaintenanceData.cs",
+              "DocumentMoniker": "C:\\asp.net_Core_WebApi_Projects\\CarRentalDataAccessLayer\\ClsMaintenanceData.cs",
+              "RelativeDocumentMoniker": "..\\CarRentalDataAccessLayer\\ClsMaintenanceData.cs",
+              "ToolTip": "C:\\asp.net_Core_WebApi_Projects\\CarRentalDataAccessLayer\\ClsMaintenanceData.cs",
+              "RelativeToolTip": "..\\CarRentalDataAccessLayer\\ClsMaintenanceData.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T23:34:04.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ClsCarFuelTypeData.cs",
-              "DocumentMoniker": "C:\\asp.net_Core_WebApi_Projects\\CarRentalDataAccessLayer\\ClsCarFuelTypeData.cs",
-              "RelativeDocumentMoniker": "..\\CarRentalDataAccessLayer\\ClsCarFuelTypeData.cs",
-              "ToolTip": "C:\\asp.net_Core_WebApi_Projects\\CarRentalDataAccessLayer\\ClsCarFuelTypeData.cs",
-              "RelativeToolTip": "..\\CarRentalDataAccessLayer\\ClsCarFuelTypeData.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T23:04:45.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ClsFuelType.cs",
-              "DocumentMoniker": "C:\\asp.net_Core_WebApi_Projects\\CarRentalAPIBusinessLayer\\ClsFuelType.cs",
-              "RelativeDocumentMoniker": "..\\CarRentalAPIBusinessLayer\\ClsFuelType.cs",
-              "ToolTip": "C:\\asp.net_Core_WebApi_Projects\\CarRentalAPIBusinessLayer\\ClsFuelType.cs",
-              "RelativeToolTip": "..\\CarRentalAPIBusinessLayer\\ClsFuelType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T23:09:42.462Z",
+              "WhenOpened": "2025-10-22T12:00:58.059Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CarFuelTypeController.cs",
-              "DocumentMoniker": "C:\\asp.net_Core_WebApi_Projects\\CarRentalSystem\\Controllers\\CarFuelTypeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CarFuelTypeController.cs",
-              "ToolTip": "C:\\asp.net_Core_WebApi_Projects\\CarRentalSystem\\Controllers\\CarFuelTypeController.cs",
-              "RelativeToolTip": "Controllers\\CarFuelTypeController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAswEQAAABCAAAAAAAAAA==",
+              "Title": "ClsFuelType.cs",
+              "DocumentMoniker": "C:\\asp.net_Core_WebApi_Projects\\CarRentalAPIBusinessLayer\\ClsFuelType.cs",
+              "RelativeDocumentMoniker": "..\\CarRentalAPIBusinessLayer\\ClsFuelType.cs",
+              "ToolTip": "C:\\asp.net_Core_WebApi_Projects\\CarRentalAPIBusinessLayer\\ClsFuelType.cs",
+              "RelativeToolTip": "..\\CarRentalAPIBusinessLayer\\ClsFuelType.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T23:11:16.36Z",
+              "WhenOpened": "2025-10-22T11:41:59.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ClsCarCategory.cs",
-              "DocumentMoniker": "C:\\asp.net_Core_WebApi_Projects\\CarRentalAPIBusinessLayer\\ClsCarCategory.cs",
-              "RelativeDocumentMoniker": "..\\CarRentalAPIBusinessLayer\\ClsCarCategory.cs",
-              "ToolTip": "C:\\asp.net_Core_WebApi_Projects\\CarRentalAPIBusinessLayer\\ClsCarCategory.cs",
-              "RelativeToolTip": "..\\CarRentalAPIBusinessLayer\\ClsCarCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ClsVehicleData.cs",
+              "DocumentMoniker": "C:\\asp.net_Core_WebApi_Projects\\CarRentalDataAccessLayer\\ClsVehicleData.cs",
+              "RelativeDocumentMoniker": "..\\CarRentalDataAccessLayer\\ClsVehicleData.cs",
+              "ToolTip": "C:\\asp.net_Core_WebApi_Projects\\CarRentalDataAccessLayer\\ClsVehicleData.cs",
+              "RelativeToolTip": "..\\CarRentalDataAccessLayer\\ClsVehicleData.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAK0AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T21:27:12.719Z",
+              "WhenOpened": "2025-10-22T11:38:55.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClsVehicle.cs",
+              "DocumentMoniker": "C:\\asp.net_Core_WebApi_Projects\\CarRentalAPIBusinessLayer\\ClsVehicle.cs",
+              "RelativeDocumentMoniker": "..\\CarRentalAPIBusinessLayer\\ClsVehicle.cs",
+              "ToolTip": "C:\\asp.net_Core_WebApi_Projects\\CarRentalAPIBusinessLayer\\ClsVehicle.cs",
+              "RelativeToolTip": "..\\CarRentalAPIBusinessLayer\\ClsVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T11:38:16.942Z",
               "EditorCaption": ""
             }
           ]
